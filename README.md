@@ -22,5 +22,5 @@ To run the project you need to execute the command below:
 ```bash
 git clone https://github.com/DikDns/fastest-rute-public-health-center.git
 cd ./fastest-rute-public-health-center
-make -f MakeFile && fastest-rute-public-health-center
+make -f MakeFile && fastest-route-public-health-center
 ```
