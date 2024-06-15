@@ -1,0 +1,92 @@
+[
+  {
+    "district": "Sukasari",
+    "public_health_center": "Puskesmas Ledeng",
+    "urban_village": "Isola"
+  },
+  {
+    "district": "Sukasari",
+    "public_health_center": "UPT Puskesmas Sukarasa",
+    "urban_village": "Gegerkalong"
+  },
+  {
+    "district": "Sukasari",
+    "public_health_center": "None",
+    "urban_village": "Sukarasa"
+  },
+  {
+    "district": "Sukasari",
+    "public_health_center": "Puskesmas Sarijadi",
+    "urban_village": "Sarijadi"
+  },
+  {
+    "district": "Cidadap",
+    "public_health_center": "Puskesmas Cipaku",
+    "urban_village": "Ledeng"
+  },
+  {
+    "district": "Cidadap",
+    "public_health_center": "Puskesmas Dadali Ciumbuleuit",
+    "urban_village": "Ciumbuleuit"
+  },
+  {
+    "district": "Cidadap",
+    "public_health_center": "Puskesmas Ciumbuleuit",
+    "urban_village": "Hegarmanah"
+  },
+  {
+    "district": "Sukajadi",
+    "public_health_center": "Puskesmas Sukawarna",
+    "urban_village": "Sukawarna"
+  },
+  {
+    "district": "Sukajadi",
+    "public_health_center": "UPT Puskesmas Sukagalih",
+    "urban_village": "Sukagalih"
+  },
+  {
+    "district": "Sukajadi",
+    "public_health_center": "UPTD Puskesmas Sukajadi",
+    "urban_village": "Cipedes"
+  },
+  {
+    "district": "Sukajadi",
+    "public_health_center": "None",
+    "urban_village": "Sukabungah"
+  },
+  {
+    "district": "Sukajadi",
+    "public_health_center": "None",
+    "urban_village": "Pasteur"
+  },
+  {
+    "district": "Coblong",
+    "public_health_center": "Puskesmas Dago",
+    "urban_village": "Dago"
+  },
+  {
+    "district": "Coblong",
+    "public_health_center": "None",
+    "urban_village": "Cipaganti"
+  },
+  {
+    "district": "Coblong",
+    "public_health_center": "None",
+    "urban_village": "Lebak Siliwangi"
+  },
+  {
+    "district": "Coblong",
+    "public_health_center": "Puskesmas Sekeloa",
+    "urban_village": "Lebak Gede"
+  },
+  {
+    "district": "Coblong",
+    "public_health_center": "None",
+    "urban_village": "Sekeloa"
+  },
+  {
+    "district": "Coblong",
+    "public_health_center": "UPTD Puskesmas Puter",
+    "urban_village": "Sadang Serang"
+  }
+]

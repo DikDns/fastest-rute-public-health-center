@@ -1,0 +1,473 @@
+[
+    {
+        "districts": [
+            {
+                "district": "Sukasari",
+                "public_health_center": "Puskesmas Ledeng",
+                "urban_village": "Isola"
+            },
+            {
+                "district": "Cidadap",
+                "public_health_center": "Puskesmas Cipaku",
+                "urban_village": "Ledeng"
+            },
+            {
+                "district": "Cidadap",
+                "public_health_center": "Puskesmas Dadali Ciumbuleuit",
+                "urban_village": "Ciumbuleuit"
+            }
+        ],
+        "routes": [
+            {
+                "distance_in_meter": 1100,
+                "urban_village_1": "Isola",
+                "urban_village_2": "Ledeng"
+            },
+            {
+                "distance_in_meter": 1600,
+                "urban_village_1": "Ledeng",
+                "urban_village_2": "Ciumbuleuit"
+            }
+        ]
+    },
+    {
+        "districts": [
+            {
+                "district": "Coblong",
+                "public_health_center": "UPTD Puskesmas Puter",
+                "urban_village": "Sadang Serang"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "Puskesmas Sekeloa",
+                "urban_village": "Lebak Gede"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "None",
+                "urban_village": "Lebak Siliwangi"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "None",
+                "urban_village": "Cipaganti"
+            },
+            {
+                "district": "Sukajadi",
+                "public_health_center": "None",
+                "urban_village": "Pasteur"
+            }
+        ],
+        "routes": [
+            {
+                "distance_in_meter": 1700,
+                "urban_village_1": "Sadang Serang",
+                "urban_village_2": "Lebak Gede"
+            },
+            {
+                "distance_in_meter": 1500,
+                "urban_village_1": "Lebak Gede",
+                "urban_village_2": "Lebak Siliwangi"
+            },
+            {
+                "distance_in_meter": 2400,
+                "urban_village_1": "Lebak Siliwangi",
+                "urban_village_2": "Cipaganti"
+            },
+            {
+                "distance_in_meter": 750,
+                "urban_village_1": "Cipaganti",
+                "urban_village_2": "Pasteur"
+            }
+        ]
+    },
+    {
+        "districts": [
+            {
+                "district": "Sukasari",
+                "public_health_center": "Puskesmas Ledeng",
+                "urban_village": "Isola"
+            },
+            {
+                "district": "Sukasari",
+                "public_health_center": "UPT Puskesmas Sukarasa",
+                "urban_village": "Gegerkalong"
+            },
+            {
+                "district": "Sukasari",
+                "public_health_center": "None",
+                "urban_village": "Sukarasa"
+            }
+        ],
+        "routes": [
+            {
+                "distance_in_meter": 2800,
+                "urban_village_1": "Isola",
+                "urban_village_2": "Gegerkalong"
+            },
+            {
+                "distance_in_meter": 800,
+                "urban_village_1": "Gegerkalong",
+                "urban_village_2": "Sukarasa"
+            }
+        ]
+    },
+    {
+        "districts": [
+            {
+                "district": "Coblong",
+                "public_health_center": "UPTD Puskesmas Puter",
+                "urban_village": "Sadang Serang"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "Puskesmas Sekeloa",
+                "urban_village": "Lebak Gede"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "None",
+                "urban_village": "Lebak Siliwangi"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "None",
+                "urban_village": "Cipaganti"
+            }
+        ],
+        "routes": [
+            {
+                "distance_in_meter": 1700,
+                "urban_village_1": "Sadang Serang",
+                "urban_village_2": "Lebak Gede"
+            },
+            {
+                "distance_in_meter": 1500,
+                "urban_village_1": "Lebak Gede",
+                "urban_village_2": "Lebak Siliwangi"
+            },
+            {
+                "distance_in_meter": 2400,
+                "urban_village_1": "Lebak Siliwangi",
+                "urban_village_2": "Cipaganti"
+            }
+        ]
+    },
+    {
+        "districts": [
+            {
+                "district": "Coblong",
+                "public_health_center": "UPTD Puskesmas Puter",
+                "urban_village": "Sadang Serang"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "Puskesmas Sekeloa",
+                "urban_village": "Lebak Gede"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "None",
+                "urban_village": "Lebak Siliwangi"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "None",
+                "urban_village": "Cipaganti"
+            }
+        ],
+        "routes": [
+            {
+                "distance_in_meter": 1700,
+                "urban_village_1": "Sadang Serang",
+                "urban_village_2": "Lebak Gede"
+            },
+            {
+                "distance_in_meter": 1500,
+                "urban_village_1": "Lebak Gede",
+                "urban_village_2": "Lebak Siliwangi"
+            },
+            {
+                "distance_in_meter": 2400,
+                "urban_village_1": "Lebak Siliwangi",
+                "urban_village_2": "Cipaganti"
+            }
+        ]
+    },
+    {
+        "districts": [
+            {
+                "district": "Coblong",
+                "public_health_center": "UPTD Puskesmas Puter",
+                "urban_village": "Sadang Serang"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "None",
+                "urban_village": "Sekeloa"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "Puskesmas Dago",
+                "urban_village": "Dago"
+            },
+            {
+                "district": "Cidadap",
+                "public_health_center": "Puskesmas Dadali Ciumbuleuit",
+                "urban_village": "Ciumbuleuit"
+            }
+        ],
+        "routes": [
+            {
+                "distance_in_meter": 2400,
+                "urban_village_1": "Sadang Serang",
+                "urban_village_2": "Sekeloa"
+            },
+            {
+                "distance_in_meter": 1700,
+                "urban_village_1": "Sekeloa",
+                "urban_village_2": "Dago"
+            },
+            {
+                "distance_in_meter": 4500,
+                "urban_village_1": "Dago",
+                "urban_village_2": "Ciumbuleuit"
+            }
+        ]
+    },
+    {
+        "districts": [
+            {
+                "district": "Sukasari",
+                "public_health_center": "Puskesmas Ledeng",
+                "urban_village": "Isola"
+            },
+            {
+                "district": "Cidadap",
+                "public_health_center": "Puskesmas Cipaku",
+                "urban_village": "Ledeng"
+            },
+            {
+                "district": "Cidadap",
+                "public_health_center": "Puskesmas Dadali Ciumbuleuit",
+                "urban_village": "Ciumbuleuit"
+            }
+        ],
+        "routes": [
+            {
+                "distance_in_meter": 1100,
+                "urban_village_1": "Isola",
+                "urban_village_2": "Ledeng"
+            },
+            {
+                "distance_in_meter": 1600,
+                "urban_village_1": "Ledeng",
+                "urban_village_2": "Ciumbuleuit"
+            }
+        ]
+    },
+    {
+        "districts": [
+            {
+                "district": "Coblong",
+                "public_health_center": "UPTD Puskesmas Puter",
+                "urban_village": "Sadang Serang"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "None",
+                "urban_village": "Sekeloa"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "Puskesmas Dago",
+                "urban_village": "Dago"
+            },
+            {
+                "district": "Cidadap",
+                "public_health_center": "Puskesmas Dadali Ciumbuleuit",
+                "urban_village": "Ciumbuleuit"
+            },
+            {
+                "district": "Cidadap",
+                "public_health_center": "Puskesmas Cipaku",
+                "urban_village": "Ledeng"
+            },
+            {
+                "district": "Sukasari",
+                "public_health_center": "Puskesmas Ledeng",
+                "urban_village": "Isola"
+            }
+        ],
+        "routes": [
+            {
+                "distance_in_meter": 1100,
+                "urban_village_1": "Isola",
+                "urban_village_2": "Ledeng"
+            },
+            {
+                "distance_in_meter": 1600,
+                "urban_village_1": "Ledeng",
+                "urban_village_2": "Ciumbuleuit"
+            },
+            {
+                "distance_in_meter": 4500,
+                "urban_village_1": "Ciumbuleuit",
+                "urban_village_2": "Dago"
+            },
+            {
+                "distance_in_meter": 1700,
+                "urban_village_1": "Dago",
+                "urban_village_2": "Sekeloa"
+            },
+            {
+                "distance_in_meter": 2400,
+                "urban_village_1": "Sekeloa",
+                "urban_village_2": "Sadang Serang"
+            }
+        ]
+    },
+    {
+        "districts": [
+            {
+                "district": "Sukasari",
+                "public_health_center": "Puskesmas Ledeng",
+                "urban_village": "Isola"
+            },
+            {
+                "district": "Cidadap",
+                "public_health_center": "Puskesmas Cipaku",
+                "urban_village": "Ledeng"
+            },
+            {
+                "district": "Cidadap",
+                "public_health_center": "Puskesmas Dadali Ciumbuleuit",
+                "urban_village": "Ciumbuleuit"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "Puskesmas Dago",
+                "urban_village": "Dago"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "None",
+                "urban_village": "Sekeloa"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "UPTD Puskesmas Puter",
+                "urban_village": "Sadang Serang"
+            }
+        ],
+        "routes": [
+            {
+                "distance_in_meter": 2400,
+                "urban_village_1": "Sadang Serang",
+                "urban_village_2": "Sekeloa"
+            },
+            {
+                "distance_in_meter": 1700,
+                "urban_village_1": "Sekeloa",
+                "urban_village_2": "Dago"
+            },
+            {
+                "distance_in_meter": 4500,
+                "urban_village_1": "Dago",
+                "urban_village_2": "Ciumbuleuit"
+            },
+            {
+                "distance_in_meter": 1600,
+                "urban_village_1": "Ciumbuleuit",
+                "urban_village_2": "Ledeng"
+            },
+            {
+                "distance_in_meter": 1100,
+                "urban_village_1": "Ledeng",
+                "urban_village_2": "Isola"
+            }
+        ]
+    },
+    {
+        "districts": [
+            {
+                "district": "Sukajadi",
+                "public_health_center": "None",
+                "urban_village": "Pasteur"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "None",
+                "urban_village": "Cipaganti"
+            },
+            {
+                "district": "Cidadap",
+                "public_health_center": "Puskesmas Ciumbuleuit",
+                "urban_village": "Hegarmanah"
+            },
+            {
+                "district": "Cidadap",
+                "public_health_center": "Puskesmas Cipaku",
+                "urban_village": "Ledeng"
+            },
+            {
+                "district": "Sukasari",
+                "public_health_center": "Puskesmas Ledeng",
+                "urban_village": "Isola"
+            }
+        ],
+        "routes": [
+            {
+                "distance_in_meter": 1100,
+                "urban_village_1": "Isola",
+                "urban_village_2": "Ledeng"
+            },
+            {
+                "distance_in_meter": 3200,
+                "urban_village_1": "Ledeng",
+                "urban_village_2": "Hegarmanah"
+            },
+            {
+                "distance_in_meter": 1600,
+                "urban_village_1": "Hegarmanah",
+                "urban_village_2": "Cipaganti"
+            },
+            {
+                "distance_in_meter": 750,
+                "urban_village_1": "Cipaganti",
+                "urban_village_2": "Pasteur"
+            }
+        ]
+    },
+    {
+        "districts": [
+            {
+                "district": "Cidadap",
+                "public_health_center": "Puskesmas Ciumbuleuit",
+                "urban_village": "Hegarmanah"
+            },
+            {
+                "district": "Coblong",
+                "public_health_center": "None",
+                "urban_village": "Cipaganti"
+            },
+            {
+                "district": "Sukajadi",
+                "public_health_center": "None",
+                "urban_village": "Pasteur"
+            }
+        ],
+        "routes": [
+            {
+                "distance_in_meter": 750,
+                "urban_village_1": "Pasteur",
+                "urban_village_2": "Cipaganti"
+            },
+            {
+                "distance_in_meter": 1600,
+                "urban_village_1": "Cipaganti",
+                "urban_village_2": "Hegarmanah"
+            }
+        ]
+    }
+]

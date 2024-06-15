@@ -1,0 +1,162 @@
+[
+  {
+    "distance_in_meter": 2800,
+    "urban_village_1": "Gegerkalong",
+    "urban_village_2": "Isola"
+  },
+  {
+    "distance_in_meter": 800,
+    "urban_village_1": "Gegerkalong",
+    "urban_village_2": "Sukarasa"
+  },
+  {
+    "distance_in_meter": 4300,
+    "urban_village_1": "Gegerkalong",
+    "urban_village_2": "Hegarmanah"
+  },
+  {
+    "distance_in_meter": 1500,
+    "urban_village_1": "Gegerkalong",
+    "urban_village_2": "Sarijadi"
+  },
+  {
+    "distance_in_meter": 1100,
+    "urban_village_1": "Ledeng",
+    "urban_village_2": "Isola"
+  },
+  {
+    "distance_in_meter": 1600,
+    "urban_village_1": "Ledeng",
+    "urban_village_2": "Ciumbuleuit"
+  },
+  {
+    "distance_in_meter": 3200,
+    "urban_village_1": "Ledeng",
+    "urban_village_2": "Hegarmanah"
+  },
+  {
+    "distance_in_meter": 1600,
+    "urban_village_1": "Sukawarna",
+    "urban_village_2": "Sarijadi"
+  },
+  {
+    "distance_in_meter": 2600,
+    "urban_village_1": "Sukawarna",
+    "urban_village_2": "Sukagalih"
+  },
+  {
+    "distance_in_meter": 800,
+    "urban_village_1": "Sukagalih",
+    "urban_village_2": "Cipedes"
+  },
+  {
+    "distance_in_meter": 850,
+    "urban_village_1": "Sukagalih",
+    "urban_village_2": "Sukabungah"
+  },
+  {
+    "distance_in_meter": 750,
+    "urban_village_1": "Cipedes",
+    "urban_village_2": "Pasteur"
+  },
+  {
+    "distance_in_meter": 750,
+    "urban_village_1": "Cipaganti",
+    "urban_village_2": "Pasteur"
+  },
+  {
+    "distance_in_meter": 2400,
+    "urban_village_1": "Cipaganti",
+    "urban_village_2": "Lebak Siliwangi"
+  },
+  {
+    "distance_in_meter": 3100,
+    "urban_village_1": "Hegarmanah",
+    "urban_village_2": "Dago"
+  },
+  {
+    "distance_in_meter": 1600,
+    "urban_village_1": "Hegarmanah",
+    "urban_village_2": "Cipaganti"
+  },
+  {
+    "distance_in_meter": 2600,
+    "urban_village_1": "Sukagalih",
+    "urban_village_2": "Sukarasa"
+  },
+  {
+    "distance_in_meter": 1400,
+    "urban_village_1": "Sarijadi",
+    "urban_village_2": "Sukarasa"
+  },
+  {
+    "distance_in_meter": 1100,
+    "urban_village_1": "Sukabungah",
+    "urban_village_2": "Pasteur"
+  },
+  {
+    "distance_in_meter": 300,
+    "urban_village_1": "Sukabungah",
+    "urban_village_2": "Cipedes"
+  },
+  {
+    "distance_in_meter": 3600,
+    "urban_village_1": "Hegarmanah",
+    "urban_village_2": "Cipedes"
+  },
+  {
+    "distance_in_meter": 3800,
+    "urban_village_1": "Sukarasa",
+    "urban_village_2": "Cipedes"
+  },
+  {
+    "distance_in_meter": 3800,
+    "urban_village_1": "Sukarasa",
+    "urban_village_2": "Hegarmanah"
+  },
+  {
+    "distance_in_meter": 1600,
+    "urban_village_1": "Ciumbuleuit",
+    "urban_village_2": "Hegarmanah"
+  },
+  {
+    "distance_in_meter": 4500,
+    "urban_village_1": "Ciumbuleuit",
+    "urban_village_2": "Dago"
+  },
+  {
+    "distance_in_meter": 2100,
+    "urban_village_1": "Dago",
+    "urban_village_2": "Lebak Siliwangi"
+  },
+  {
+    "distance_in_meter": 1500,
+    "urban_village_1": "Lebak Siliwangi",
+    "urban_village_2": "Lebak Gede"
+  },
+  {
+    "distance_in_meter": 1900,
+    "urban_village_1": "Sekeloa",
+    "urban_village_2": "Lebak Siliwangi"
+  },
+  {
+    "distance_in_meter": 1700,
+    "urban_village_1": "Sekeloa",
+    "urban_village_2": "Dago"
+  },
+  {
+    "distance_in_meter": 2400,
+    "urban_village_1": "Sekeloa",
+    "urban_village_2": "Sadang Serang"
+  },
+  {
+    "distance_in_meter": 1700,
+    "urban_village_1": "Sadang Serang",
+    "urban_village_2": "Lebak Gede"
+  },
+  {
+    "distance_in_meter": 800,
+    "urban_village_1": "Sekeloa",
+    "urban_village_2": "Lebak Gede"
+  }
+]
